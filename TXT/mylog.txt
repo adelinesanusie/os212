@@ -2,6 +2,12 @@
 # ZCZC WEEK# MINUTES LogCode Description
 
 ZCZC W00 100 L01 SCELE related
+ZCZC W00  40 L02 ZOOM meetings related
 ZCZC W00  15 L03 GitHub related
 ZCZC W00  60 L86 Help my mom clean the house
 ZCZC W00 120 L87 Meeting for an event
+ZCZC W01  30 L01 SCELE related
+ZCZC W01  60 L02 ZOOM meetings related
+ZCZC W01  60 L03 GitHub related
+ZCZC W01 180 L09 Assignment in General
+ZCZC W01   5 L22 Quiz
