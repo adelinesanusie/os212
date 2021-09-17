@@ -10,4 +10,9 @@ ZCZC W01  30 L01 SCELE related
 ZCZC W01  60 L02 ZOOM meetings related
 ZCZC W01  60 L03 GitHub related
 ZCZC W01 180 L09 Assignment in General
-ZCZC W01   5 L22 Quiz
+ZCZC W01   5 L22 Quiz Week 1
+ZCZC W02  40 L01 SCELE related
+ZCZC W02  25 L03 Github related
+ZCZC W02  60 L09 Assignment in General
+ZCZC W02  20 L22 Quiz Week 2
+ZCZC W02  90 L73 Playing Games
