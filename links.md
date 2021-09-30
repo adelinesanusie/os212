@@ -13,6 +13,6 @@ Scele sistem operasi berisi pengumuman, link kelas sinkronus, dan quiz
 Mempelajari cara menggunakan Linux dengan basic command line
 ## Week 04
 [Memory & Data, Video 3: Memory addresses](https://www.youtube.com/watch?v=lzMCuw_5dfM)<br>
-Video penjelasan mengenai adresses, pointers, byte ordering(little endian dan big endian)
+Video penjelasan mengenai adresses, pointers, byte ordering(little endian dan big endian)<br>
 [What Is Little-Endian And Big-Endian Byte Ordering?](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)<br>
 Mengetahui lebih dalam tentang Little Endian dan Big Endian
