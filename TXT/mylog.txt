@@ -29,3 +29,8 @@ ZCZC W04  30 L09 Assignment in General
 ZCZC W04  20 L22 Quiz Week04
 ZCZC W04  10 L32 YouTube: Memory & Data, Video 3: Memory addresses
 ZCZC W04  70 L82 Reading novels by Tere Liye
+ZCZC W05 100 L02 ZOOM meetings learn about virtual memory
+ZCZC W05  60 L09 Assignment in General
+ZCZC W05  20 L22 Quiz
+ZCZC W05  30 L64 Helping OS related problem to a friend
+ZCZC W05  90 L81 Listening to music
