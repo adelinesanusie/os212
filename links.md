@@ -22,5 +22,5 @@ Mengenal virtual memory (demand paging, page fault, swapping, thrashing)<br>
 [Virtual Memory: 3 What is Virtual Memory?](https://www.youtube.com/watch?v=qlH4-oHnBb8)<br>
 Video penjelasan mengenai virtual memory
 ## Week 06
-[Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)
+[Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
 Penjelasan mengenai Konkurensi: eksekusi beberapa urutan instruksi secara bersamaan
