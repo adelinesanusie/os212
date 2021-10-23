@@ -23,6 +23,6 @@ Mengenal virtual memory (demand paging, page fault, swapping, thrashing)<br>
 Video penjelasan mengenai virtual memory
 ## Week 06
 [Concurrency in Operating System](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
-Penjelasan mengenai Konkurensi: eksekusi beberapa urutan instruksi secara bersamaan
+Penjelasan mengenai Konkurensi: eksekusi beberapa urutan instruksi secara bersamaan<br>
 [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
 Konkurensi (manfaat multi-threading, mekanisme sinkronisasi, user & Kernel threads)
