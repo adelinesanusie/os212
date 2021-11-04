@@ -28,6 +28,6 @@ Penjelasan mengenai Konkurensi: eksekusi beberapa urutan instruksi secara bersam
 Konkurensi (manfaat multi-threading, mekanisme sinkronisasi, user & Kernel threads)
 ## Week 07
 [Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
-Konsep proses sinkronisasi
+Konsep proses sinkronisasi<br>
 [Operating System #24 Synchronization: Race Conditions, Critical Section, Locks & Unlocks](https://www.youtube.com/watch?v=ZQb3DRy0g8U)<br>
 Video penjelasan tentang sinkronisasi
