@@ -26,3 +26,8 @@ Video penjelasan mengenai virtual memory
 Penjelasan mengenai Konkurensi: eksekusi beberapa urutan instruksi secara bersamaan<br>
 [Operating System: Threads and Concurrency](https://medium.com/@akhandmishra/operating-system-threads-and-concurrency-aec2036b90f8)<br>
 Konkurensi (manfaat multi-threading, mekanisme sinkronisasi, user & Kernel threads)
+## Week 07
+[Process Synchronization](https://www.studytonight.com/operating-system/process-synchronization)<br>
+Konsep proses sinkronisasi
+[Operating System #24 Synchronization: Race Conditions, Critical Section, Locks & Unlocks](https://www.youtube.com/watch?v=ZQb3DRy0g8U)<br>
+Video penjelasan tentang sinkronisasi
