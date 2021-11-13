@@ -45,3 +45,9 @@ ZCZC W07  20 L22 Quiz Week06
 ZCZC W07  14 L32 YouTube: watching operating system about synchronization
 ZCZC W07  20 L64 Helping OS related problem to a friend
 ZCZC W07  50 L70 Studying for linear algebra
+ZCZC W08  30 L01 SCELE related
+ZCZC W08  20 L09 Assignment in General
+ZCZC W08  11 L32 YouTube: watch scheduling process
+ZCZC W08  60 L70 Studying for SDA
+ZCZC W08  20 L83 Feed my pet
+ZCZC W08  40 L86 Help mom wash the dishes

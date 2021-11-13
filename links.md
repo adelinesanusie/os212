@@ -31,3 +31,7 @@ Konkurensi (manfaat multi-threading, mekanisme sinkronisasi, user & Kernel threa
 Konsep proses sinkronisasi<br>
 [Operating System #24 Synchronization: Race Conditions, Critical Section, Locks & Unlocks](https://www.youtube.com/watch?v=ZQb3DRy0g8U)<br>
 Video penjelasan tentang sinkronisasi
+## Week 08
+[Process Scheduling](https://www.youtube.com/watch?v=2h3eWaPx8SA)<br>
+Video penjelasan tentang proses scheduling: objectives of multiprogramming and time-sharing, process scheduler, scheduling queues, job queues, and ready queue
+
