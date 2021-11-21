@@ -51,3 +51,9 @@ ZCZC W08  11 L32 YouTube: watch scheduling process
 ZCZC W08  60 L70 Studying for SDA
 ZCZC W08  20 L83 Feed my pet
 ZCZC W08  40 L86 Help mom wash the dishes
+ZCZC W09  10 L01 Scele related
+ZCZC W09  60 L32 YouTube: watch Storage, Firmware, Bootloader, Systemd from Pak Mishbah
+ZCZC W09  15 L61 Backup Virtual Box WEEK06
+ZCZC W09  30 L64 Helping OS related problem to a friend
+ZCZC W09  60 L70 Studying for Linear Algebra
+ZCZC W09  20 L81 Listening to old song

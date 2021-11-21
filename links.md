@@ -34,4 +34,9 @@ Video penjelasan tentang sinkronisasi
 ## Week 08
 [Process Scheduling](https://www.youtube.com/watch?v=2h3eWaPx8SA)<br>
 Video penjelasan tentang proses scheduling: objectives of multiprogramming and time-sharing, process scheduler, scheduling queues, job queues, and ready queue
+## Week 09
+[Storage, Firmware, Bootloader, Systemd | Kuliah Sistem Operasi](https://www.youtube.com/watch?v=_QB5ESvOjQU)<br>
+Video penjelasan tentang Storage, Firmware, Bootloader, Systemd dari Pak Mishbah<br>
+[Reading: Firmware](https://courses.lumenlearning.com/zeliite115/chapter/reading-firmware/)<br>
+Mengenal Firmware lebih dalam di Sistem Operasi
 
