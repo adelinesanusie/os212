@@ -57,3 +57,9 @@ ZCZC W09  15 L61 Backup Virtual Box WEEK06
 ZCZC W09  30 L64 Helping OS related problem to a friend
 ZCZC W09  60 L70 Studying for Linear Algebra
 ZCZC W09  20 L81 Listening to old song
+ZCZC W10  20 L01 SCELE related
+ZCZC W10  20 L22 Quiz Week08
+ZCZC W10  13 L32 Youtube: watch basics of OS I/O structure
+ZCZC W10  30 L81 Listening to lofi music
+ZCZC W10  90 L84 Afternoon sleep
+ZCZC W10  60 L86 Help dad clean his office

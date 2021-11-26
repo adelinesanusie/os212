@@ -39,4 +39,6 @@ Video penjelasan tentang proses scheduling: objectives of multiprogramming and t
 Video penjelasan tentang Storage, Firmware, Bootloader, Systemd dari Pak Mishbah<br>
 [Reading: Firmware](https://courses.lumenlearning.com/zeliite115/chapter/reading-firmware/)<br>
 Mengenal Firmware lebih dalam di Sistem Operasi
-
+## Week 10
+[Basics of OS (I/O Structure)](https://www.youtube.com/watch?v=F18RiREDkwE)<br>
+Video penjelasan tentang dasar struktur I/O
